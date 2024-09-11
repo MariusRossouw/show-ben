@@ -1,0 +1,6 @@
+/* Master Variables File */
+@import url(../node_modules/@stratech-team/svelte-component-library/src/master-variables.css);
+/* Custome Vars */
+@import url(./custom-variables.css);
+/* Master Styles File */
+@import url(../node_modules/@stratech-team/svelte-component-library/src/master-styles.css);
